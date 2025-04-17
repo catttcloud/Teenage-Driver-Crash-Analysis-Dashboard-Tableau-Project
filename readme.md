@@ -67,11 +67,11 @@ _High-Risk Areas for Teenage Driver Accidents (Bubble Chart)._
 
 ## Installation Instructions
 ### Prerequisites:
-1. **Tableau Desktop or Tableau Public**: Download Tableau from [here](https://www.tableau.com/products/desktop) if you don't have it installed.
+1. **Tableau Desktop or Tableau Public**: Download Tableau if you don't have it installed.
 2. **Dataset**: All datasets required for this project are included in the `datasets` folder.
 
 ### Steps to View the Dashboard:
-1. Clone or download this repository to your local machine.
+1. Download `Teenage_Driver_Safety.twbx` the  to your local machine.
 2. Open the `Teenage_Driver_Safety.twbx` file in Tableau Desktop or Tableau Public.
 3. Interact with the dashboard:
    - Use filters to explore different data subsets.
